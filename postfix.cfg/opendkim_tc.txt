@@ -1,0 +1,1 @@
+yd00101_tc._domainkey IN TXT "v=DKIM1; r=postmaster; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAlL7adnUYFCSX8N5uFPF0az33NFp68l4seD0k7zi0L9cNzEubqyw/3i5SGdEUpMwJhreIgBzox3SRRFZKOFIQwJVu3pUv+yek9Cphk2NtjFr4g/nROtjEZAmFAuqg+VaJMaoJlZpXCMYAV8vLkonf/IjD48UsnAj9EifV22Xv5wIDAQAB" ; ----- DKIM yd00101_tc for tipcontact.com

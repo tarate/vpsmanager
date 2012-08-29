@@ -1,0 +1,1 @@
+{SELECTOR}._domainkey.{MAIL_DOMAIN} {MAIL_DOMAIN}:{SELECTOR}:/etc/opendkim/keys/{MAIL_DOMAIN}/{SELECTOR}
